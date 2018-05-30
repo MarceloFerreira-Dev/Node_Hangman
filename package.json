@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arnoldrz2/Constructor-Hangman.git"
+    "url": "git+https://github.com/marceloxerox/Node_Hangman.git"
   },
   "author": "Marcelo Ferreira",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/arnoldrz2/Constructor-Hangman/issues"
+    "url": "https://github.com/marceloxerox/Node_Hangman/issues"
   },
-  "homepage": "https://github.com/arnoldrz2/Constructor-Hangman#readme",
+  "homepage": "https://github.com/marceloxerox/Node_Hangman#readme",
   "dependencies": {
     "inquirer": "^5.2.0",
     "is-letter": "^1.1.1",
